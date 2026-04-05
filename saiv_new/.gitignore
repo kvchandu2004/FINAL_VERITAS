@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv_saivnew/
+
+# Model files (large binaries)
+*.pkl
+
+
+# Environment secrets
+.env

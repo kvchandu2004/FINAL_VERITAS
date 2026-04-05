@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+csad_module/__pycache__/
+csad_module/app1.py
+csad_module/app2.py
+csad_module/app3.py
+csad_module/csad_me.py
+csad_module/csadscoring2.py
+csad_module/main.py
+csad_module/temp.pdf
+references.csv
+=======
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv_backend/
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+*.env
+*.egg-info/
+
+
+>>>>>>> 7a2cd92 (Initial commit: FastAPI backend setup)
